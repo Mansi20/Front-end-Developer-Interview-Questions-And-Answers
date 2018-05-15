@@ -1,8 +1,11 @@
 # CSS Questions
 
 #### What is the difference between classes and ID's in CSS?
+The main difference between id and classes are classes are used when we have to consistently style multiple events in a webpage, Id's are used when we have to style a single element in a web page 
 
-*Not answered yet*
+id is used with a # symbol
+class is used with a . symbol
+
 
 #### What's the difference between "resetting" and "normalizing" CSS? Which would you choose, and why?
 
